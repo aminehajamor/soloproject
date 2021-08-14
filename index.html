@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+      <!-- Latest compiled and minified CSS -->
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<title>Hangman Game</title> 
+</head>
+
+  <body>
+
+<div class="container">
+  <h1 id = "title" class="text-center">Hangman Game</h1>
+  <div id="wrong22" class="text-right">Wrong Guesses: <span class='wrong22' font-size="20px" id="wrong">0</span> of <span font-size="20px" class="wrong22" id="maxwrong"></span></div>
+<div class="text-center"> 
+  <img id = "hanger" src="./images/0.jpg" alt="hanger"><br><br>
+  <p id = "guesstheclothing">Guess The Clothing Brand:</p><br>
+  <p id= "wordsplace">Answers Goes here :</p> <br>
+  <div background="transperet" id="keyboard"></div><br>
+<button class="btn btn-info" id = "reset" onclick="reset()">Reset</button>
+</div>
+</div>
+  <script src = "main.js"></script>
+</body>
+</html>

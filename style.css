@@ -1,0 +1,145 @@
+*{
+  background-image: url("https://wallpaperaccess.com/full/1288346.jpg");
+    color: white;
+}
+.wrong22{
+  font-size: 20px;
+  color: red;
+  font-weight: bold;
+}
+#wrong22{
+  font-size: 20px;
+  color: red;
+  font-weight: bold;
+}
+#guesstheclothing{
+  position: absolute;
+    font-size: 20px;
+    left: 336px;
+    top: 501px;
+    font-weight: bold;
+    color: lightgrey;
+}
+
+#reset{
+  background-color: transparent;
+    width: 89px;
+}
+#title{
+  font-weight: bold;
+    font-size: 50px;
+    color: lightgrey;
+    margin-left: -71px;
+}
+#a{
+  background-color: transparent;
+  border-color: white;
+}
+#b{
+  background-color: transparent;
+  border-color: white;
+}
+#c{
+  background-color: transparent;
+  border-color: white;
+}
+#d{
+  background-color: transparent;
+  border-color: white;
+}
+#e{
+  background-color: transparent;
+  border-color: white;
+}
+#f{
+  background-color: transparent;
+  border-color: white;
+}
+#g{
+  background-color: transparent;
+  border-color: white;
+}
+#h{
+  background-color: transparent;
+  border-color: white;
+}
+#i{
+  background-color: transparent;
+  border-color: white;
+}
+#j{
+  background-color: transparent;
+  border-color: white;
+}
+#k{
+  background-color: transparent;
+  border-color: white;
+}
+#l{
+  background-color: transparent;
+  border-color: white;
+}
+#m{
+  background-color: transparent;
+  border-color: white;
+}
+#n{
+  background-color: transparent;
+  border-color: white;
+}
+#o{
+  background-color: transparent;
+  border-color: white;
+}
+#p{
+  background-color: transparent;
+  border-color: white;
+}
+#q{
+  background-color: transparent;
+  border-color: white;
+}
+#r{
+  background-color: transparent;
+  border-color: white;
+}
+#s{
+  background-color: transparent;
+  border-color: white;
+}
+#t{
+  background-color: transparent;
+  border-color: white;
+}
+#u{
+  background-color: transparent;
+  border-color: white;
+}
+#v{
+  background-color: transparent;
+  border-color: white;
+}
+#w{
+  background-color: transparent;
+  border-color: white;
+}
+#x{
+  background-color: transparent;
+  border-color: white;
+}
+#y{
+  background-color: transparent;
+  border-color: white;
+}
+#z{
+  background-color: transparent;
+  border-color: white;
+}
+#keyboard{
+color: black;
+    font-size: 31px;
+}
+#wordsplace{
+    left: 656px;
+    font-size: 17px;
+}
